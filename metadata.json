@@ -1,0 +1,6 @@
+{
+  "name": "Mohammed Shuhaid & Safrin R Wedding Invitation",
+  "description": "Royal wedding & reception invitation web application for Mohammed Shuhaid and Safrin R with interactive envelope opening, ceremonial music, countdown timer, Nikah, Lunch, and Reception details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
